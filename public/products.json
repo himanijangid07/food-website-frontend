@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "image": "/product-1.jpg",
+        "name": "Fresh Tomato",
+        "discountedPrice": 19.00,
+        "actualPrice": 29.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 2,
+        "image": "/product-2.jpg",
+        "name": "Fresh Pineapple",
+        "discountedPrice": 69.00,
+        "actualPrice": 89.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 3,
+        "image": "/product-3.jpg",
+        "name": "Fresh Chillies",
+        "discountedPrice": 7.00,
+        "actualPrice": 19.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 4,
+        "image": "/product-4.jpg",
+        "name": "Fresh Strawberry",
+        "discountedPrice": 99.00,
+        "actualPrice": 109.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 5,
+        "image": "/product-5.jpg",
+        "name": "Fresh Cucumber",
+        "discountedPrice": 35.00,
+        "actualPrice": 39.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 6,
+        "image": "/product-6.jpg",
+        "name": "Fresh Tomato",
+        "discountedPrice": 20.00,
+        "actualPrice": 25.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 7,
+        "image": "/product-7.jpg",
+        "name": "Fresh Potato",
+        "discountedPrice": 12.00,
+        "actualPrice": 19.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 8,
+        "image": "/product-8.jpg",
+        "name": "Fresh Banana",
+        "discountedPrice": 15.00,
+        "actualPrice": 25.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 9,
+        "image": "/product-9.webp",
+        "name": "Fresh Carrot",
+        "discountedPrice": 25.00,
+        "actualPrice": 30.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 10,
+        "image": "/product-10.jpg",
+        "name": "Fresh Grapes",
+        "discountedPrice": 45.00,
+        "actualPrice": 55.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 11,
+        "image": "/product-11.webp",
+        "name": "Fresh Mango",
+        "discountedPrice": 75.00,
+        "actualPrice": 85.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 12,
+        "image": "/product-12.webp",
+        "name": "Fresh Broccoli",
+        "discountedPrice": 50.00,
+        "actualPrice": 60.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 13,
+        "image": "/product-13.jpg",
+        "name": "Fresh Oranges",
+        "discountedPrice": 40.00,
+        "actualPrice": 50.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 14,
+        "image": "/product-14.jpeg",
+        "name": "Fresh Spinach",
+        "discountedPrice": 10.00,
+        "actualPrice": 15.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 15,
+        "image": "/product-15.jpg",
+        "name": "Fresh Avocado",
+        "discountedPrice": 60.00,
+        "actualPrice": 70.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 16,
+        "image": "/product-16.jpg",
+        "name": "Fresh Bell Pepper",
+        "discountedPrice": 30.00,
+        "actualPrice": 40.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 17,
+        "image": "/product-17.jpeg",
+        "name": "Fresh Blueberries",
+        "discountedPrice": 120.00,
+        "actualPrice": 130.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 18,
+        "image": "/product-18.jpg",
+        "name": "Fresh Garlic",
+        "discountedPrice": 18.00,
+        "actualPrice": 25.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 19,
+        "image": "/product-19.jpg",
+        "name": "Fresh Watermelon",
+        "discountedPrice": 50.00,
+        "actualPrice": 60.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 20,
+        "image": "/product-20.jpg",
+        "name": "Fresh Cabbage",
+        "discountedPrice": 15.00,
+        "actualPrice": 20.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 21,
+        "image": "/product-21.webp",
+        "name": "Fresh Raspberries",
+        "discountedPrice": 110.00,
+        "actualPrice": 120.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 22,
+        "image": "/product-22.webp",
+        "name": "Fresh Lettuce",
+        "discountedPrice": 10.00,
+        "actualPrice": 15.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 23,
+        "image": "/product-23.jpg",
+        "name": "Fresh Peaches",
+        "discountedPrice": 90.00,
+        "actualPrice": 100.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 24,
+        "image": "/product-24.jpg",
+        "name": "Fresh Celery",
+        "discountedPrice": 25.00,
+        "actualPrice": 30.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 25,
+        "image": "/product-25.jpg",
+        "name": "Fresh Apricots",
+        "discountedPrice": 85.00,
+        "actualPrice": 95.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 26,
+        "image": "/product-26.jpg",
+        "name": "Fresh Zucchini",
+        "discountedPrice": 20.00,
+        "actualPrice": 25.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 27,
+        "image": "/product-27.webp",
+        "name": "Fresh Plums",
+        "discountedPrice": 75.00,
+        "actualPrice": 85.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 28,
+        "image": "/product-28.jpg",
+        "name": "Fresh Kale",
+        "discountedPrice": 15.00,
+        "actualPrice": 20.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 29,
+        "image": "/product-29.webp",
+        "name": "Fresh Pomegranate",
+        "discountedPrice": 55.00,
+        "actualPrice": 65.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 30,
+        "image": "/product-30.jpg",
+        "name": "Fresh Eggplant",
+        "discountedPrice": 20.00,
+        "actualPrice": 25.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 31,
+        "image": "/product-31.webp",
+        "name": "Fresh Papaya",
+        "discountedPrice": 40.00,
+        "actualPrice": 50.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 32,
+        "image": "/product-32.jpg",
+        "name": "Fresh Radish",
+        "discountedPrice": 12.00,
+        "actualPrice": 17.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 33,
+        "image": "/product-33.webp",
+        "name": "Fresh Pears",
+        "discountedPrice": 60.00,
+        "actualPrice": 70.00,
+        "category": "Fruits"
+    },
+    {
+        "id": 34,
+        "image": "/product-34.jpg",
+        "name": "Fresh Pumpkin",
+        "discountedPrice": 30.00,
+        "actualPrice": 40.00,
+        "category": "Vegetable"
+    },
+    {
+        "id": 35,
+        "image": "/product-35.webp",
+        "name": "Fresh Kiwi",
+        "discountedPrice" : 59.00,
+        "actualPrice": 69.00,
+        "category": "Fruits"
+    }
+]

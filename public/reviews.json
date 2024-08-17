@@ -1,0 +1,80 @@
+[
+    { 
+        "id": 1,
+        "content": "I am always impressed with the freshness and quality of the produce I receive from Foody. Knowing that it comes directly from local farms, and I love it.",
+        "image": "/testimonial-1.jpg",
+        "name": "Edla Richard",
+        "prof": "Educator",
+        "date": "recent"
+    },
+    { 
+        "id": 2, 
+        "content": "Foody has completely transformed how I shop for groceries. The transparency and traceability of their products make me feel confident in my choices for my family.", "image": "/testimonial-2.jpg", 
+        "name": "Thomas", 
+        "prof": "Engineer", 
+        "date": "old"
+    },
+    { 
+        "id": 3, 
+        "content": "The variety and taste of the organic fruits and vegetables are unmatched. It's like having a farmers' market delivered to my doorstep. Highly recommend!", 
+        "image": "/testimonial-3.jpg", 
+        "name": "Nick Ryde", 
+        "prof": "Doctor",
+        "date": "recent" 
+    },
+    { 
+        "id": 4, 
+        "content": "Not only are the fruits and vegetables incredibly fresh, but the prices are also fantastic without the middlemen. I appreciate the direct connection to the farms.", "image": "/testimonial-4.jpg", 
+        "name": "Rosie Elma", 
+        "prof": "Teacher",
+        "date": "old"
+    },
+    {
+        "id": 5,
+        "content": "Foody's commitment to sustainability and supporting local farmers is what initially drew me in, but the quality of their products keeps me coming back.",
+        "image": "/testimonial-1.jpg",
+        "name": "Samantha Wilson",
+        "prof": "Graphic Designer",
+        "date": "recent"
+    },
+    {
+        "id": 6,
+        "content": "Shopping with Foody has been a game-changer for our family. The convenience of having fresh, organic produce delivered right to our door is unbeatable.",
+        "image": "/testimonial-3.jpg",
+        "name": "James Anderson",
+        "prof": "Architect",
+        "date": "old"
+    },
+    {
+        "id": 7,
+        "content": "I love knowing where my food comes from. Foody's clear sourcing and dedication to quality make them my go-to for groceries.",
+        "image": "/testimonial-4.jpg",
+        "name": "Laura Brown",
+        "prof": "Writer",
+        "date": "recent"
+    },
+    {
+        "id": 8,
+        "content": "The freshness and flavor of Foody's products are second to none. It's like getting produce straight from the farm every week. Highly recommended for anyone who values quality!",
+        "image": "/testimonial-2.jpg",
+        "name": "David Lee",
+        "prof": "Chef",
+        "date": "old"
+    },
+    {
+        "id": 9,
+        "content": "With Foody, I never have to worry about the quality of my groceries. Every delivery is packed with fresh, delicious produce that I can trust for my family.",
+        "image": "/testimonial-1.jpg",
+        "name": "Emily Clark",
+        "prof": "Fitness Trainer",
+        "date": "recent"
+    },
+    {
+        "id": 10,
+        "content": "Foody has made it so easy to eat healthily and sustainably. The convenience, quality, and customer service are top-notch. I can’t imagine shopping anywhere else now.",
+        "image": "/testimonial-3.jpg",
+        "name": "Michael Johnson",
+        "prof": "Entrepreneur",
+        "date": "old"
+    }
+]
